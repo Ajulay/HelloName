@@ -1,6 +1,5 @@
 package com.ajulay;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -13,5 +12,6 @@ public class Main {
         } else {
             System.out.println("Hello, World!");
         }
+        sc.close();
     }
 }
